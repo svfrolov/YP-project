@@ -5,7 +5,7 @@
 # Содержание: / Content:
 
 ## Модуль 01 / Module 01
-    * Базовый Python / Music of big cities - Project_01
+    * Базовый Python / Basic Python - Project_01
     * Предобработка данных / Data Processing - Project_02
     * Исследовательский анализ данных / Exploratory data analysis - Project_03
     * Статистический анализ данных / Statistical analysis of data - Project_04
